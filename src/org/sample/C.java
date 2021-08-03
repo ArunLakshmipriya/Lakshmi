@@ -8,6 +8,9 @@ public class C  extends B{// chuma
 		K.bank();
 		K.loan();
 		K.fixed();
+
+
+System.out.println("Madam");
 		
 	}
 	
